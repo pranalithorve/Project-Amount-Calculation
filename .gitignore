@@ -2,5 +2,5 @@
 *.pyc
 *.egg-info
 *.swp
-tags
+tag
 project_amount_calculation/docs/current
